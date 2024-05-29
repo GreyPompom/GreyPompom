@@ -13,9 +13,9 @@ https://i.gifer.com/hz9.mp4
 
 <div align=""><br>
  
-  <a href="https://github.com/harukaionasao">
+  <a href="https://github.com/GreyPompom">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GreyPompom&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyPompom&layout=compact&langs_count=7&theme=synthwave">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyPompom&layout=compact&langs_count=7&theme=synthwave"></a>
 </div><br>
 
 
