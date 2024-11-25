@@ -1,4 +1,3 @@
-https://i.gifer.com/hz9.mp4
 ### Olá, me chamo Emely Santos, mas pode me chamar de Pomps 🌱
 
 👩‍💻 Desenvolvedora Full stack Junior| Estudante de Ciência da Computação 
