@@ -1,11 +1,11 @@
 https://i.gifer.com/hz9.mp4
 ### Olá, me chamo Emely Santos, mas pode me chamar de Pomps 🌱
 
-👩‍💻 Desenvolvedora Júnior de Front-End | Estudante de Ciência da Computação 
+👩‍💻 Desenvolvedora Full stack Junior| Estudante de Ciência da Computação 
 
-🌟 Tecnologias: React, JavaScript, Angular, SQL, Node.js, Tailwind, Bootstrap
+🌟 Tecnologias: React, JAVA, C#, JavaScript, Angular, SQL, Node.js, Tailwind, Bootstrap
 
-📚 Atualmente aprimorando habilidades em UI/UX e aprendendo C# e Java
+📚 Atualmente aprimorando habilidades em UI/UX.
 
 🎓 Formada em Técnico de Análise e Desenvolvimento de Sistemas (ADS)
 
@@ -27,7 +27,6 @@ https://i.gifer.com/hz9.mp4
 <img height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
            
-  <img align="right" alt="Roberta-pic" height="150" style="border-radius:50px;" src="">
 </div>
   
  #### 📫 Como me contatar
