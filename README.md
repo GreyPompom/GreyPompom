@@ -15,18 +15,14 @@
   <a href = "mailto:emelylink00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roberta-ribeiro-b5521a4b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 👩‍💻 Desenvolvedora Full stack Junior| Estudante de Ciência da Computação 
-
 🌟 Tecnologias: React, JAVA, C#, JavaScript, Angular, SQL, Node.js, Tailwind, Bootstrap
-
 📚 Atualmente aprimorando habilidades em UI/UX.
-
 🎓 Formada em Técnico de Análise e Desenvolvimento de Sistemas (ADS)
-
 💡 Apaixonada por criar experiências incríveis para o usuário através de interfaces intuitivas e funcionais
 
 <div align=""><br>
- 
   <a href="https://github.com/GreyPompom">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GreyPompom&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyPompom&layout=compact&langs_count=7&theme=synthwave"></a>
