@@ -1,7 +1,7 @@
 ### Olá, me chamo Emely Santos, mas pode me chamar de Pomps 🌱
 
 #### 🌱 Minha bagagem
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
