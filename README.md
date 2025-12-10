@@ -19,15 +19,6 @@
 
 💡 Apaixonada por criar experiências incríveis para o usuário através de interfaces intuitivas e funcionais
 
-<div align=""><br>
-  <a href="https://github.com/GreyPompom">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GreyPompom&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyPompom&layout=compact&langs_count=7&theme=synthwave"></a>
-</div><br>
-
-
-![Calendário 3D de Contribuições](profile-3d-contrib/profile-night-rainbow.svg)
-
   
  #### 📫 Como me contatar
 <div style="display: inline_block">
@@ -37,15 +28,3 @@
 <!--
 **GreyPompom/GreyPompom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://devicon.dev/
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
