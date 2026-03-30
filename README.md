@@ -1,30 +1,68 @@
-### Olá, me chamo Emely Santos, mas pode me chamar de Pomps 🌱
+# 🌿 Emely Santos (Pomps)
 
-#### 🌱 Minha bagagem
-<div style="display: inline_block">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" />
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />      
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=2E7D32&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Angular+%7C+.NET;UI%2FUX+Enthusiast;Building+Digital+Experiences+🌱" />
+</p>
 
-👩‍💻 Desenvolvedora Full stack Junior| Estudante de Ciência da Computação 
+---
 
-🌟 Tecnologias: React, JAVA, C#, JavaScript, Angular, SQL, Node.js, Tailwind, Bootstrap
+## 🌱 Sobre mim
 
-📚 Atualmente aprimorando habilidades em UI/UX.
+💚 Desenvolvedora Full Stack apaixonada por criar experiências digitais modernas, funcionais e intuitivas.  
+🎓 Estudante de Ciência da Computação  
+🚀 Experiência com e-commerce, APIs REST e interfaces performáticas  
 
-🎓 Formada em Técnico de Análise e Desenvolvimento de Sistemas (ADS)
+Atualmente focada em evoluir minhas habilidades em **UI/UX** e arquitetura de aplicações.
 
-💡 Apaixonada por criar experiências incríveis para o usuário através de interfaces intuitivas e funcionais
+---
 
-  
- #### 📫 Como me contatar
-<div style="display: inline_block">
-  <a href="https://www.instagram.com/Grey_pompom/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:emelylink00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-<!--
-**GreyPompom/GreyPompom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://devicon.dev/
+## 🌿 Tech Stack
+
+<p align="center">
+
+### 💻 Linguagens & Frameworks
+<img src="https://skillicons.dev/icons?i=react,angular,js,java,cs,dotnet" />
+
+### 🛠️ Ferramentas
+<img src="https://skillicons.dev/icons?i=nodejs,tailwind,bootstrap,mysql" />
+
+</p>
+
+---
+
+## 🌱 Destaques
+
+✨ Desenvolvimento de aplicações web completas (front + back)  
+🛒 Experiência com plataformas de e-commerce  
+🔗 Criação de APIs REST e microserviços  
+🎨 Foco em UI moderna e experiência do usuário  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GreyPompom&theme=merko&hide_border=true"/>
+</p>
+
+---
+
+## 🌿 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/emely-santos-greypompom/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-2E7D32?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:emelylink00@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-1B5E20?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/Grey_pompom/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-388E3C?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🌱 Filosofia
+
+> “Código é mais do que lógica — é experiência, estética e impacto.”
