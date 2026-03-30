@@ -1,8 +1,6 @@
-# 🌿 Emely Santos (Pomps)
+# 🌿 Emely Santos (Pomps) 
+<img src="https://readme-typing-svg.herokuapp.com/?color=2E7D32&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Angular+%7C+.NET;3D+Models+%7C+IFC+%7C+Revit;Building+Digital+Experiences+🌱" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=2E7D32&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Angular+%7C+.NET;UI%2FUX+Enthusiast;Building+Digital+Experiences+🌱" />
-</p>
 
 ---
 
@@ -12,7 +10,7 @@
 🎓 Estudante de Ciência da Computação  
 🚀 Experiência com e-commerce, APIs REST e interfaces performáticas  
 
-Atualmente focada em evoluir minhas habilidades em **UI/UX** e arquitetura de aplicações.
+🏗️ Atualmente trabalho com **softwares voltados à construção civil**, lidando com **modelos 3D (IFC e Revit)**, aprofundando principalmente meus conhecimentos em **serviços e arquitetura backend** voltados para esse domínio.
 
 ---
 
@@ -23,9 +21,8 @@ Atualmente focada em evoluir minhas habilidades em **UI/UX** e arquitetura de ap
 ### 💻 Linguagens & Frameworks
 <img src="https://skillicons.dev/icons?i=react,angular,js,java,cs,dotnet" />
 
-### 🛠️ Ferramentas
+### 🛠️ Ferramentas & Tecnologias
 <img src="https://skillicons.dev/icons?i=nodejs,tailwind,bootstrap,mysql" />
-
 </p>
 
 ---
@@ -35,6 +32,7 @@ Atualmente focada em evoluir minhas habilidades em **UI/UX** e arquitetura de ap
 ✨ Desenvolvimento de aplicações web completas (front + back)  
 🛒 Experiência com plataformas de e-commerce  
 🔗 Criação de APIs REST e microserviços  
+🏗️ Integração e manipulação de modelos 3D (IFC / Revit)  
 🎨 Foco em UI moderna e experiência do usuário  
 
 ---
@@ -42,6 +40,7 @@ Atualmente focada em evoluir minhas habilidades em **UI/UX** e arquitetura de ap
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GreyPompom&show_icons=true&theme=merko&hide_border=true"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GreyPompom&theme=merko&hide_border=true"/>
 </p>
 
